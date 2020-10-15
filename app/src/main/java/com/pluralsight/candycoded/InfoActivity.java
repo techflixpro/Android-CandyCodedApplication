@@ -32,10 +32,13 @@ public class InfoActivity extends AppCompatActivity {
     // TODO - Task 2 - Launch the Google Maps Activity
     /*Hello, I have called my intent googlemapofcandycoded. It's kind of lengthy but according
     to me, it alright.*/
-     public void onGoogleMapCandyCoded (View view){
-        Intent googlemapofcandycoded=new Intent(Intent.ACTION_VIEW);
-        googlemapofcandycoded.setData(Uri.parse("geo:0,0?q=618 E South St Orlando, FL"));
-        startActivity(googlemapofcandycoded);
+     public void createMapIntent (View view){
+        Intent mapIntent=new Intent(Intent.ACTION_VIEW);
+        mapIntent.setData(Uri.parse("geo:0,0?q=618 E South St Orlando, FL 32801"));
+         mapIntent.setPackage("com.google.android.apps.maps");
+         if (mapIntent.resolveActivity(getPackageManager()) != null) {
+             startActivity(mapIntent);
+         }
     }
     // ***
 
