@@ -46,8 +46,8 @@ public class InfoActivity extends AppCompatActivity {
     // TODO - Task 3 - Launch the Phone Activity
     /*Hello, I have called my intent onCall for the case of the phone option. It's kind of lengthy but according
     to me, it alright.*/
-    public void onPhoneCall (View view){
-        Intent onCall=new Intent(Intent.ACTION_VIEW);
+    public void createPhoneIntent (View view){
+        Intent onCall=new Intent(Intent.ACTION_DIAL);
         //I  have simply changed the format from (012)345-6789 to  0123456789 because I don't think a phone will take that format. I hope am right.
         onCall.setData(Uri.parse("tel:0123456789"));
         startActivity(onCall);
