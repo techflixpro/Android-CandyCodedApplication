@@ -242,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602792332022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Finally Project Completed - CandyCoded Project @11:11pm">
+      <created>1602792691275</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602792691275</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -268,7 +275,8 @@
     <MESSAGE value="Updated completed v1" />
     <MESSAGE value="Updated completed v2" />
     <MESSAGE value="Project Completed - CandyCoded Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project Completed - CandyCoded Project" />
+    <MESSAGE value="Finally Project Completed - CandyCoded Project @11:11pm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally Project Completed - CandyCoded Project @11:11pm" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Notifications" timestamp="1602781711060">
@@ -287,10 +295,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="429" y="201" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1602781621446" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602792326778">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602792685915">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602792326778" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602792685915" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1602781146716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -299,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="230" y="13" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602781149782" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602792338216">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1602792696746">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602792338216" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602792696746" />
     <state x="20" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1602782066579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
